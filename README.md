@@ -3,67 +3,77 @@
 
 # ◈ NEURALSTACKJA
 
-### `FULL STACK` × `NEURAL AI` × `DATA INTELLIGENCE`
+### `FULL STACK` × `NEURAL AI` × `CREATIVE ENGINEERING`
 
-**Engineering intelligent systems. Designing digital experiences.**
+**Beyond the code. Beyond the ordinary.**
 
 <br>
 
 ![Full Stack](https://img.shields.io/badge/FULL_STACK-102B46?style=for-the-badge)
 ![Neural AI](https://img.shields.io/badge/NEURAL_AI-00B8D9?style=for-the-badge)
-![Geospatial](https://img.shields.io/badge/GEO_INTELLIGENCE-168C94?style=for-the-badge)
+![Creative Tech](https://img.shields.io/badge/CREATIVE_TECH-168C94?style=for-the-badge)
 
-<br><br>
+<br>
 
-### ◇ THE DIGITAL GARDEN
+### ◇ DIGITAL GARDEN
 
-*A creative space where code, intelligence and design converge.*
+*An experimental space where technology, intelligence and creativity converge.*
 
-[![EXPLORE THE GARDEN](https://img.shields.io/badge/EXPLORE_THE_GARDEN-087E91?style=for-the-badge&logo=githubpages&logoColor=white)](https://neuralstackja.github.io/NeuralStackJA/)
+[![EXPLORE](https://img.shields.io/badge/EXPLORE_THE_GARDEN-087E91?style=for-the-badge&logo=githubpages&logoColor=white)](https://neuralstackja.github.io/NeuralStackJA/)
 
 </div>
 
 ---
 
-## 01 / THE CREATOR
+## 01 / IDENTITY
 
 ```python
 class NeuralStackJA:
     identity = "Independent Developer"
-    expertise = ["Full Stack", "Neural AI", "Data Engineering", "GIS"]
-    philosophy = "Build. Explore. Innovate."
+    focus = [
+        "Full Stack Engineering",
+        "Artificial Intelligence",
+        "Neural Systems",
+        "Creative Computing"
+    ]
+
+    philosophy = "Build. Explore. Evolve."
 ```
 
-## 02 / THE UNIVERSE
+---
 
-| ◈ | EXPERTISE | EXPLORATION |
-|---|---|---|
-| 01 | **Full Stack** | Web applications and software architecture |
-| 02 | **Neural AI** | Intelligent systems and automation |
-| 03 | **Data Engineering** | Data pipelines and analytics |
-| 04 | **Geospatial** | GIS and interactive mapping |
-| 05 | **Creative Coding** | Experimental digital experiences |
+## 02 / DIGITAL UNIVERSE
 
-## 03 / FEATURED PROJECT
+| | DOMAIN | EXPLORATION |
+|:---:|:---|:---|
+| ◈ | **Software Engineering** | Architecture and applications |
+| ◉ | **Neural Intelligence** | Intelligent systems and automation |
+| ◇ | **Data Systems** | Processing and digital workflows |
+| ◎ | **Creative Computing** | Interfaces and experimentation |
 
-### ◈ ATLAS OPEN DATA
+---
 
-**Intelligent Open Data & Geospatial Platform**
+## 03 / TOOLKIT
 
-`DATA` · `GIS` · `AI` · `API` · `VISUALIZATION`
+<div align="center">
 
-A personal project exploring modular open-data platforms,
-interactive mapping, intelligent automation and
-next-generation geospatial technologies.
+![Python](https://img.shields.io/badge/Python-163A56?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-163A56?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-163A56?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-163A56?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-087E91?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-087E91?style=flat-square&logo=css&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
 
-### CODE · DATA · INTELLIGENCE
+### ◈ CODE / INTELLIGENCE / CREATION
 
-**[ENTER NEURALSTACKJA →](https://neuralstackja.github.io/NeuralStackJA/)**
+*Building quietly. Exploring endlessly.*
 
-`BUILD / EXPLORE / EVOLVE`
+**[ENTER THE DIGITAL GARDEN](https://neuralstackja.github.io/NeuralStackJA/)**
 
 </div>
