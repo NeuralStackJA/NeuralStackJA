@@ -3,8 +3,7 @@
 
 <h1>NEURALSTACKJA</h1>
 
-<h3>✦ FULL STACK × NEURAL AI × CREATIVE ENGINEERING ✦</h3>
-
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=21&duration=10000&pause=1000&color=C49A45&center=true&vCenter=true&repeat=false&width=750&height=45&lines=%E2%9C%A6+FULL+STACK+%C3%97+NEURAL+AI+%C3%97+CREATIVE+ENGINEERING+%E2%9C%A6" alt="FULL STACK × NEURAL AI × CREATIVE ENGINEERING">
 <h3>Au-delà du code. Au-delà de l'ordinaire.</h3>
 
 <sub><i>Beyond the code. Beyond the ordinary.</i></sub>
