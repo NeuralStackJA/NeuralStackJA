@@ -1,37 +1,38 @@
 
-
 <div align="center">
 
-# NEURALSTACKJA
+<h1>NEURALSTACKJA</h1>
 
-### ✦ FULL STACK × NEURAL AI × CREATIVE ENGINEERING ✦
+<h3>✦ FULL STACK × NEURAL AI × CREATIVE ENGINEERING ✦</h3>
 
-### Au-delà du code. Au-delà de l'ordinaire.
+<h3>Au-delà du code. Au-delà de l'ordinaire.</h3>
 
 <sub><i>Beyond the code. Beyond the ordinary.</i></sub>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FULL_STACK-8B5CF6?style=for-the-badge" alt="FULL STACK">
-<img src="https://img.shields.io/badge/NEURAL_AI-FF6584?style=for-the-badge" alt="NEURAL AI">
-<img src="https://img.shields.io/badge/CREATIVE_TECH-12B8A6?style=for-the-badge" alt="CREATIVE TECH">
+<img alt="FULL STACK" src="https://img.shields.io/badge/FULL%20STACK-8B5CF6?style=for-the-badge">
+<img alt="NEURAL AI" src="https://img.shields.io/badge/NEURAL%20AI-FF6584?style=for-the-badge">
+<img alt="CREATIVE TECH" src="https://img.shields.io/badge/CREATIVE%20TECH-12B8A6?style=for-the-badge">
 
 <br><br>
 
----
+<h2>◇ UNIVERS NUMÉRIQUE</h2>
 
-## ◇ UNIVERS NUMÉRIQUE
+<i>DIGITAL UNIVERSE</i>
 
-*DIGITAL UNIVERSE*
+<br><br>
 
-**Un espace d'exploration où se rencontrent technologie, intelligence et créativité.**
+<b>Un espace d'exploration où se rencontrent technologie, intelligence et créativité.</b>
+
+<br><br>
 
 <sub><i>A space for exploration where technology, intelligence and creativity converge.</i></sub>
 
 <br><br>
 
 <a href="https://neuralstackja.github.io/NeuralStackJA/">
-  <img src="https://img.shields.io/badge/D%C3%89COUVRIR_L%27UNIVERS-FF6584?style=for-the-badge" alt="DÉCOUVRIR L'UNIVERS">
+<img alt="DÉCOUVRIR L'UNIVERS" src="https://img.shields.io/badge/D%C3%89COUVRIR%20L%27UNIVERS-FF6584?style=for-the-badge">
 </a>
 
 <br><br>
@@ -39,7 +40,6 @@
 </div>
 
 ---
-
 
 ## 01 / IDENTITÉ NUMÉRIQUE
 
