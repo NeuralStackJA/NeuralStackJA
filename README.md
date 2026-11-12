@@ -40,6 +40,7 @@
 
 ---
 
+
 ## 01 / IDENTITÉ NUMÉRIQUE
 
 *DIGITAL IDENTITY*
@@ -48,20 +49,37 @@
 
 *Independent Developer & Digital Creator*
 
-Une approche multidisciplinaire associant ingénierie logicielle, intelligence artificielle, développement web et création visuelle.
+Une approche multidisciplinaire où le développement logiciel, l'intelligence artificielle et la création visuelle se rejoignent pour concevoir des expériences numériques innovantes.
 
-*A multidisciplinary approach combining software engineering, artificial intelligence, web development and visual creativity.*
+<sub><i>A multidisciplinary approach combining software development, artificial intelligence and visual creativity to build innovative digital experiences.</i></sub>
 
 <br>
 
-| | DOMAINE | SPÉCIALISATION |
-|:---:|:---|:---|
-| 🟣 | **Développement Full Stack** | Applications, interfaces et architecture logicielle |
-| 🩷 | **Intelligence artificielle** | Systèmes intelligents, réseaux neuronaux et automatisation |
-| 🟢 | **Ingénierie des données** | Traitement, API, bases de données et visualisation |
-| 🟠 | **Creative Computing** | Expériences interactives et programmation créative |
-| 🟡 | **Motion Design** | Animation, vidéo et effets visuels |
-| 🟣 | **Digital Media** | Design graphique et production multimédia |
+### ◇ DOMAINES D'EXPERTISE
+
+<img src="https://img.shields.io/badge/01_SOFTWARE_ENGINEERING-8B5CF6?style=for-the-badge" alt="Software Engineering">
+
+Applications, architectures et interfaces.
+
+<img src="https://img.shields.io/badge/02_NEURAL_AI-FF6584?style=for-the-badge" alt="Neural AI">
+
+Intelligence artificielle, réseaux neuronaux et automatisation.
+
+<img src="https://img.shields.io/badge/03_DATA_ENGINEERING-12B8A6?style=for-the-badge" alt="Data Engineering">
+
+Traitement des données, API et visualisation.
+
+<img src="https://img.shields.io/badge/04_CREATIVE_COMPUTING-FF9F43?style=for-the-badge" alt="Creative Computing">
+
+Programmation graphique et expériences interactives.
+
+<img src="https://img.shields.io/badge/05_MOTION_DESIGN-D946A6?style=for-the-badge" alt="Motion Design">
+
+Animation, vidéo et effets visuels.
+
+<img src="https://img.shields.io/badge/06_DIGITAL_MEDIA-8B5CF6?style=for-the-badge" alt="Digital Media">
+
+Design graphique et production multimédia.
 
 <br>
 
