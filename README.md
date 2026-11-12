@@ -57,29 +57,32 @@ Une approche multidisciplinaire où le développement logiciel, l'intelligence a
 
 ### ◇ DOMAINES D'EXPERTISE
 
-<img src="https://img.shields.io/badge/01_SOFTWARE_ENGINEERING-8B5CF6?style=for-the-badge" alt="Software Engineering">
-
-Applications, architectures et interfaces.
-
-<img src="https://img.shields.io/badge/02_NEURAL_AI-FF6584?style=for-the-badge" alt="Neural AI">
-
-Intelligence artificielle, réseaux neuronaux et automatisation.
-
-<img src="https://img.shields.io/badge/03_DATA_ENGINEERING-12B8A6?style=for-the-badge" alt="Data Engineering">
-
-Traitement des données, API et visualisation.
-
-<img src="https://img.shields.io/badge/04_CREATIVE_COMPUTING-FF9F43?style=for-the-badge" alt="Creative Computing">
-
-Programmation graphique et expériences interactives.
-
-<img src="https://img.shields.io/badge/05_MOTION_DESIGN-D946A6?style=for-the-badge" alt="Motion Design">
-
-Animation, vidéo et effets visuels.
-
-<img src="https://img.shields.io/badge/06_DIGITAL_MEDIA-8B5CF6?style=for-the-badge" alt="Digital Media">
-
-Design graphique et production multimédia.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/identity/01.svg" alt="Software Engineering">
+    </td>
+    <td width="50%">
+      <img src="assets/identity/02.svg" alt="Neural AI">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/identity/03.svg" alt="Data Engineering">
+    </td>
+    <td>
+      <img src="assets/identity/04.svg" alt="Creative Computing">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/identity/05.svg" alt="Motion Design">
+    </td>
+    <td>
+      <img src="assets/identity/06.svg" alt="Digital Media">
+    </td>
+  </tr>
+</table>
 
 <br>
 
