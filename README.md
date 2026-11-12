@@ -1,21 +1,24 @@
 
+
 <div align="center">
 
 # NEURALSTACKJA
 
-### `FULL STACK` × `NEURAL AI` × `CREATIVE ENGINEERING`
+### ✦ FULL STACK × NEURAL AI × CREATIVE ENGINEERING ✦
 
 ### Au-delà du code. Au-delà de l'ordinaire.
 
 <sub><i>Beyond the code. Beyond the ordinary.</i></sub>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/FULL_STACK-8B5CF6?style=for-the-badge" alt="Full Stack">
-<img src="https://img.shields.io/badge/NEURAL_AI-FF6584?style=for-the-badge" alt="Neural AI">
-<img src="https://img.shields.io/badge/CREATIVE_TECH-12B8A6?style=for-the-badge" alt="Creative Tech">
+<img src="https://img.shields.io/badge/FULL_STACK-8B5CF6?style=for-the-badge" alt="FULL STACK">
+<img src="https://img.shields.io/badge/NEURAL_AI-FF6584?style=for-the-badge" alt="NEURAL AI">
+<img src="https://img.shields.io/badge/CREATIVE_TECH-12B8A6?style=for-the-badge" alt="CREATIVE TECH">
 
 <br><br>
+
+---
 
 ## ◇ UNIVERS NUMÉRIQUE
 
@@ -28,14 +31,15 @@
 <br><br>
 
 <a href="https://neuralstackja.github.io/NeuralStackJA/">
-  <img src="https://img.shields.io/badge/DECOUVRIR_L_UNIVERS-FF6584?style=for-the-badge" alt="Découvrir l'univers">
+  <img src="https://img.shields.io/badge/D%C3%89COUVRIR_L%27UNIVERS-FF6584?style=for-the-badge" alt="DÉCOUVRIR L'UNIVERS">
 </a>
+
+<br><br>
 
 </div>
 
 ---
 
----
 
 ## 01 / IDENTITÉ NUMÉRIQUE
 
