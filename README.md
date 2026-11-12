@@ -40,7 +40,6 @@
 
 ---
 
-
 ## 01 / IDENTITÉ NUMÉRIQUE
 
 *DIGITAL IDENTITY*
@@ -58,30 +57,54 @@ Une approche multidisciplinaire où le développement logiciel, l'intelligence a
 ### ◇ DOMAINES D'EXPERTISE
 
 <table>
-  <tr>
-    <td width="50%">
-      <img src="assets/identity/01.svg" alt="Software Engineering">
-    </td>
-    <td width="50%">
-      <img src="assets/identity/02.svg" alt="Neural AI">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/identity/03.svg" alt="Data Engineering">
-    </td>
-    <td>
-      <img src="assets/identity/04.svg" alt="Creative Computing">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="assets/identity/05.svg" alt="Motion Design">
-    </td>
-    <td>
-      <img src="assets/identity/06.svg" alt="Digital Media">
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+![Software Engineering](https://img.shields.io/badge/01_SOFTWARE_ENGINEERING-8B5CF6?style=for-the-badge)
+
+**Applications, architectures et interfaces**
+
+</td>
+<td width="50%" valign="top">
+
+![Neural AI](https://img.shields.io/badge/02_NEURAL_AI-FF6584?style=for-the-badge)
+
+**IA, réseaux neuronaux et automatisation**
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+![Data Engineering](https://img.shields.io/badge/03_DATA_ENGINEERING-12B8A6?style=for-the-badge)
+
+**Données, API et visualisation**
+
+</td>
+<td valign="top">
+
+![Creative Computing](https://img.shields.io/badge/04_CREATIVE_COMPUTING-FF9F43?style=for-the-badge)
+
+**Programmation et expériences interactives**
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+![Motion Design](https://img.shields.io/badge/05_MOTION_DESIGN-D946A6?style=for-the-badge)
+
+**Animation, vidéo et effets visuels**
+
+</td>
+<td valign="top">
+
+![Digital Media](https://img.shields.io/badge/06_DIGITAL_MEDIA-8B5CF6?style=for-the-badge)
+
+**Design graphique et multimédia**
+
+</td>
+</tr>
 </table>
 
 <br>
