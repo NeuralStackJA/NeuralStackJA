@@ -246,7 +246,7 @@ Montage vidéo, postproduction et effets visuels
 
 <hr>
 
----
+
 
 ## 04 / DESIGN & CRÉATION NUMÉRIQUE
 
@@ -295,22 +295,39 @@ Montage vidéo, postproduction et effets visuels
 
 ---
 
+
 <div align="center">
-
-### ✳ CODE × INTELLIGENCE × CRÉATIVITÉ
-
-**Créer sans limites. Explorer de nouvelles possibilités.**
-
-<sub><i>Create without limits. Explore new possibilities.</i></sub>
-
-<br><br>
-
-[![EXPLORER NEURALSTACKJA](https://img.shields.io/badge/✦_EXPLORER_NEURALSTACKJA-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://neuralstackja.github.io/NeuralStackJA/)
 
 <br>
 
-`IMAGINER` / `CRÉER` / `INNOVER`
+<img
+  src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&duration=1&pause=1000&color=C49A45&center=true&vCenter=true&repeat=false&width=760&height=45&lines=%E2%9C%A6+CODE+%C3%97+INTELLIGENCE+%C3%97+CR%C3%89ATIVIT%C3%89+%E2%9C%A6"
+  alt="✦ CODE × INTELLIGENCE × CRÉATIVITÉ ✦">
 
-<sub><i>IMAGINE / CREATE / INNOVATE</i></sub>
+<br><br>
+
+<strong>Créer sans limites. Explorer de nouvelles possibilités.</strong>
+
+<br>
+
+<i>Create without limits. Explore new possibilities.</i>
+
+<br><br>
+
+<a href="https://neuralstackja.github.io/NeuralStackJA/">
+<img
+  src="https://img.shields.io/badge/EXPLORER_NEURALSTACKJA-8B5CF6?style=for-the-badge"
+  alt="EXPLORER NEURALSTACKJA">
+</a>
+
+<br><br>
+
+<code>IMAGINER</code> / <code>CRÉER</code> / <code>INNOVER</code>
+
+<br>
+
+<i>IMAGINE / CREATE / INNOVATE</i>
+
+<br><br>
 
 </div>
