@@ -1,132 +1,16 @@
 
-/* NEURALSTACKJA — ANIMATION GRAPHIQUE */
+/* ==========================================
+   NEURALSTACKJA — ANIMATION + FR / EN
+   ========================================== */
 
-(() => {
-  const canvas = document.getElementById("art");
-  if (!canvas) return;
+document.addEventListener("DOMContentLoaded", function () {
 
-  const ctx = canvas.getContext("2d");
-  if (!ctx) return;
+  /* ========================================
+     1. TRADUCTIONS
+     ======================================== */
 
-  const reduced = window.matchMedia(
-    "(prefers-reduced-motion: reduce)"
-  ).matches;
-
-  let width = 0;
-  let height = 0;
-  let raf = 0;
-
-  const shapes = [
-    { x: .46, y: .49, r: .25, color: "#8255f4", type: "square", speed: .25, phase: 0 },
-    { x: .65, y: .36, r: .19, color: "#ff6689", type: "circle", speed: -.34, phase: 2 },
-    { x: .37, y: .67, r: .15, color: "#ffc45c", type: "triangle", speed: .5, phase: 1 },
-    { x: .75, y: .68, r: .12, color: "#25cbbd", type: "ring", speed: -.4, phase: 3 },
-    { x: .25, y: .27, r: .08, color: "#fff8ee", type: "diamond", speed: .4, phase: 1.5 }
-  ];
-
-  function resize() {
-    const rect = canvas.getBoundingClientRect();
-    width = rect.width;
-    height = rect.height;
-
-    const dpr = Math.min(window.devicePixelRatio || 1, 2);
-    canvas.width = Math.round(width * dpr);
-    canvas.height = Math.round(height * dpr);
-    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-  }
-
-  function draw(timestamp) {
-    const time = reduced ? 0 : timestamp / 1000;
-    const unit = Math.min(width, height);
-
-    ctx.clearRect(0, 0, width, height);
-
-    shapes.forEach((shape) => {
-      const x = shape.x * width +
-        Math.sin(time * .55 + shape.phase) * unit * .025;
-      const y = shape.y * height +
-        Math.cos(time * .5 + shape.phase) * unit * .025;
-      const r = shape.r * unit;
-
-      ctx.save();
-      ctx.translate(x, y);
-      ctx.rotate(time * shape.speed + shape.phase * .15);
-
-      ctx.shadowColor = "rgba(62,32,90,.16)";
-      ctx.shadowBlur = 32;
-      ctx.shadowOffsetY = 16;
-      ctx.fillStyle = shape.color;
-      ctx.strokeStyle = shape.color;
-      ctx.lineWidth = r * .22;
-
-      switch (shape.type) {
-        case "circle":
-          ctx.beginPath();
-          ctx.arc(0, 0, r, 0, Math.PI * 2);
-          ctx.fill();
-          break;
-
-        case "square":
-          ctx.beginPath();
-          ctx.roundRect(-r, -r, r * 2, r * 2, r * .35);
-          ctx.fill();
-          break;
-
-        case "triangle":
-          ctx.beginPath();
-          ctx.moveTo(0, -r);
-          ctx.lineTo(r * .95, r * .85);
-          ctx.lineTo(-r * .95, r * .85);
-          ctx.closePath();
-          ctx.fill();
-          break;
-
-        case "ring":
-          ctx.beginPath();
-          ctx.arc(0, 0, r, 0, Math.PI * 2);
-          ctx.stroke();
-          break;
-
-        case "diamond":
-          ctx.beginPath();
-          ctx.moveTo(0, -r);
-          ctx.lineTo(r, 0);
-          ctx.lineTo(0, r);
-          ctx.lineTo(-r, 0);
-          ctx.closePath();
-          ctx.fill();
-          break;
-      }
-
-      ctx.restore();
-    });
-
-    if (!reduced) {
-      raf = requestAnimationFrame(draw);
-    }
-  }
-
-  resize();
-  draw(0);
-
-  window.addEventListener("resize", () => {
-    resize();
-    if (reduced) draw(0);
-  });
-
-  document.addEventListener("visibilitychange", () => {
-    cancelAnimationFrame(raf);
-    if (!document.hidden && !reduced) {
-      raf = requestAnimationFrame(draw);
-    }
-  });
-})();
-
-
-/* NEURALSTACKJA — TRADUCTION FR / EN */
-
-(() => {
   const translations = {
+
     fr: {
       studio: "STUDIO NUMÉRIQUE INDÉPENDANT",
       aboutNav: "À PROPOS",
@@ -210,58 +94,265 @@
       footerTitle: "Let's create<br><em>something extraordinary.</em>",
       footerNote: "© 2026 NEURALSTACKJA · BUILT WITH CURIOSITY"
     }
+
   };
 
-  function setLanguage(lang) {
-    const dictionary = translations[lang] || translations.fr;
+  /* ========================================
+     2. CHANGEMENT DE LANGUE
+     ======================================== */
+
+  function changeLanguage(language) {
+
+    const lang = language === "en" ? "en" : "fr";
+    const dictionary = translations[lang];
 
     document.documentElement.lang = lang;
 
-    document.querySelectorAll("[data-i18n]").forEach((element) => {
-      const key = element.dataset.i18n;
-      const value = dictionary[key];
+    document.querySelectorAll("[data-i18n]").forEach(function (element) {
 
-      if (value === undefined) return;
+      const key = element.getAttribute("data-i18n");
+
+      if (!Object.prototype.hasOwnProperty.call(dictionary, key)) {
+        return;
+      }
 
       if (element.hasAttribute("data-html")) {
-        element.innerHTML = value;
+        element.innerHTML = dictionary[key];
       } else {
-        element.textContent = value;
+        element.textContent = dictionary[key];
       }
+
     });
 
-    document.querySelectorAll("[data-lang]").forEach((button) => {
-      button.setAttribute(
-        "aria-pressed",
-        String(button.dataset.lang === lang)
-      );
+    document.querySelectorAll(".lang-btn").forEach(function (button) {
+
+      const selected = button.dataset.lang === lang;
+
+      button.classList.toggle("active", selected);
+      button.setAttribute("aria-pressed", String(selected));
+
     });
 
     document.title = lang === "fr"
       ? "NeuralStackJA — Ingénierie créative"
       : "NeuralStackJA — Creative Engineering";
 
+    const description = document.querySelector('meta[name="description"]');
+
+    if (description) {
+      description.content = lang === "fr"
+        ? "NeuralStackJA — Développement logiciel, intelligence artificielle et création numérique."
+        : "NeuralStackJA — Software engineering, artificial intelligence and digital creativity.";
+    }
+
     try {
       localStorage.setItem("neuralstackja-language", lang);
     } catch (error) {
-      // Le site reste utilisable sans stockage local.
+      // Le changement de langue fonctionne sans stockage.
     }
+
   }
 
-  document.querySelectorAll("[data-lang]").forEach((button) => {
-    button.addEventListener("click", () => {
-      setLanguage(button.dataset.lang);
+  document.querySelectorAll(".lang-btn").forEach(function (button) {
+
+    button.addEventListener("click", function () {
+      changeLanguage(button.dataset.lang);
     });
+
   });
 
-  let savedLanguage = "fr";
+  let initialLanguage = "fr";
 
   try {
-    savedLanguage =
+    initialLanguage =
       localStorage.getItem("neuralstackja-language") || "fr";
   } catch (error) {
-    savedLanguage = "fr";
+    initialLanguage = "fr";
   }
 
-  setLanguage(savedLanguage === "en" ? "en" : "fr");
-})();
+  changeLanguage(initialLanguage);
+
+  /* ========================================
+     3. ANIMATION GEOMETRIQUE
+     ======================================== */
+
+  const canvas = document.getElementById("art");
+
+  if (!canvas) {
+    return;
+  }
+
+  const ctx = canvas.getContext("2d");
+
+  if (!ctx) {
+    return;
+  }
+
+  const reducedMotion = window.matchMedia(
+    "(prefers-reduced-motion: reduce)"
+  ).matches;
+
+  let width = 0;
+  let height = 0;
+  let animationId = null;
+
+  const shapes = [
+    {
+      x: .46, y: .49, r: .25,
+      color: "#8255f4",
+      type: "square",
+      speed: .25,
+      phase: 0
+    },
+    {
+      x: .65, y: .36, r: .19,
+      color: "#ff6689",
+      type: "circle",
+      speed: -.34,
+      phase: 2
+    },
+    {
+      x: .37, y: .67, r: .15,
+      color: "#ffc45c",
+      type: "triangle",
+      speed: .5,
+      phase: 1
+    },
+    {
+      x: .75, y: .68, r: .12,
+      color: "#25cbbd",
+      type: "ring",
+      speed: -.4,
+      phase: 3
+    },
+    {
+      x: .25, y: .27, r: .08,
+      color: "#fff8ee",
+      type: "diamond",
+      speed: .4,
+      phase: 1.5
+    }
+  ];
+
+  function resizeCanvas() {
+
+    const rect = canvas.getBoundingClientRect();
+
+    width = rect.width;
+    height = rect.height;
+
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+
+    canvas.width = Math.round(width * dpr);
+    canvas.height = Math.round(height * dpr);
+
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+  }
+
+  function draw(timestamp) {
+
+    const time = reducedMotion ? 0 : timestamp / 1000;
+    const unit = Math.min(width, height);
+
+    ctx.clearRect(0, 0, width, height);
+
+    shapes.forEach(function (shape) {
+
+      const x = shape.x * width +
+        Math.sin(time * .55 + shape.phase) * unit * .025;
+
+      const y = shape.y * height +
+        Math.cos(time * .5 + shape.phase) * unit * .025;
+
+      const r = shape.r * unit;
+
+      ctx.save();
+      ctx.translate(x, y);
+      ctx.rotate(time * shape.speed + shape.phase * .15);
+
+      ctx.shadowColor = "rgba(62,32,90,.16)";
+      ctx.shadowBlur = 32;
+      ctx.shadowOffsetY = 16;
+
+      ctx.fillStyle = shape.color;
+      ctx.strokeStyle = shape.color;
+      ctx.lineWidth = r * .22;
+
+      switch (shape.type) {
+
+        case "circle":
+          ctx.beginPath();
+          ctx.arc(0, 0, r, 0, Math.PI * 2);
+          ctx.fill();
+          break;
+
+        case "square":
+          ctx.beginPath();
+          ctx.roundRect(-r, -r, r * 2, r * 2, r * .35);
+          ctx.fill();
+          break;
+
+        case "triangle":
+          ctx.beginPath();
+          ctx.moveTo(0, -r);
+          ctx.lineTo(r * .95, r * .85);
+          ctx.lineTo(-r * .95, r * .85);
+          ctx.closePath();
+          ctx.fill();
+          break;
+
+        case "ring":
+          ctx.beginPath();
+          ctx.arc(0, 0, r, 0, Math.PI * 2);
+          ctx.stroke();
+          break;
+
+        case "diamond":
+          ctx.beginPath();
+          ctx.moveTo(0, -r);
+          ctx.lineTo(r, 0);
+          ctx.lineTo(0, r);
+          ctx.lineTo(-r, 0);
+          ctx.closePath();
+          ctx.fill();
+          break;
+
+      }
+
+      ctx.restore();
+
+    });
+
+    if (!reducedMotion) {
+      animationId = requestAnimationFrame(draw);
+    }
+
+  }
+
+  resizeCanvas();
+  draw(0);
+
+  window.addEventListener("resize", function () {
+
+    resizeCanvas();
+
+    if (reducedMotion) {
+      draw(0);
+    }
+
+  });
+
+  document.addEventListener("visibilitychange", function () {
+
+    if (animationId !== null) {
+      cancelAnimationFrame(animationId);
+    }
+
+    if (!document.hidden && !reducedMotion) {
+      animationId = requestAnimationFrame(draw);
+    }
+
+  });
+
+});
