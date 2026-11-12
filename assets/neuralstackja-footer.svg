@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 145" width="1100" height="145" role="img" aria-label="NSJ — NEURALSTACKJA">
+<rect width="1100" height="145" fill="#ffffff"/>
+<path d="M12 8H1088 M12 137H1088" stroke="#cbd0d6" stroke-width="1"/>
+<path d="M30 73H270 M830 73H1070" stroke="#c49a45" stroke-width="1"/>
+<g transform="translate(334 72) rotate(-9)" opacity="0.62" fill="none" stroke="#747b84">
+<circle r="48" stroke-width="1.5" stroke-dasharray="130 4 60 3 90 5"/>
+<circle r="41" stroke-width="0.9" stroke-dasharray="180 6 45 3"/>
+<path d="M-26 -24H26 M-26 25H26" stroke-width=".7" opacity=".55"/>
+<text x="0" y="9" fill="#5f6771" stroke="none" font-size="29" font-family="Consolas,Monaco,monospace" font-weight="bold" text-anchor="middle" letter-spacing="1">NSJ</text>
+<text x="0" y="-31" fill="#747b84" stroke="none" font-size="10" text-anchor="middle">✦ ✦ ✦</text>
+<text x="0" y="36" fill="#747b84" stroke="none" font-size="10" text-anchor="middle">✦ ✦ ✦</text>
+</g>
+<path d="M405 43V101" stroke="#aab0b8" stroke-width="1"/>
+<text x="439" y="83" fill="#777e87" font-family="Consolas,Monaco,'Courier New',monospace" font-size="39" font-weight="bold" letter-spacing="2">NEURALSTACKJA</text>
+</svg>
