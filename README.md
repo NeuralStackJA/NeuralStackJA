@@ -1,45 +1,21 @@
 
+
+<!-- BANNIÈRE NEURALSTACKJA -->
+
 <div align="center">
 
-<!-- HEADER NEURALSTACKJA -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=%E2%9C%A6%20NEURALSTACKJA%20%E2%9C%A6&fontSize=42&fontColor=A6A9AE&fontAlignY=50&animation=none" width="100%" alt="✦ NEURALSTACKJA ✦">
-
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=21&duration=10000&pause=1000&color=C49A45&center=true&vCenter=true&repeat=false&width=750&height=45&lines=%E2%9C%A6+FULL+STACK+%C3%97+NEURAL+AI+%C3%97+CREATIVE+ENGINEERING+%E2%9C%A6" alt="FULL STACK × NEURAL AI × CREATIVE ENGINEERING">
-
-<h3>Au-delà du code. Au-delà de l'ordinaire.</h3>
-
-<sub><i>Beyond the code. Beyond the ordinary.</i></sub>
-
-<br><br>
-
-<img alt="FULL STACK" src="https://img.shields.io/badge/FULL%20STACK-8B5CF6?style=for-the-badge">
-<img alt="NEURAL AI" src="https://img.shields.io/badge/NEURAL%20AI-FF6584?style=for-the-badge">
-<img alt="CREATIVE TECH" src="https://img.shields.io/badge/CREATIVE%20TECH-12B8A6?style=for-the-badge">
-
-<br><br>
-
-<h2>◇ UNIVERS NUMÉRIQUE</h2>
-
-<i>DIGITAL UNIVERSE</i>
-
-<br><br>
-
-<b>Un espace d'exploration où se rencontrent technologie, intelligence et créativité.</b>
-
-<br><br>
-
-<sub><i>A space for exploration where technology, intelligence and creativity converge.</i></sub>
-
-<br><br>
-
 <a href="https://neuralstackja.github.io/NeuralStackJA/">
-<img alt="DÉCOUVRIR L'UNIVERS" src="https://img.shields.io/badge/D%C3%89COUVRIR%20L%27UNIVERS-FF6584?style=for-the-badge">
+  <img
+    src="./assets/neuralstackja-banner.png"
+    width="100%"
+    alt="NEURALSTACKJA — Digital Universe">
 </a>
 
-<br><br>
-
 </div>
+
+---
+
+
 
 ---
 
