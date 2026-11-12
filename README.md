@@ -295,32 +295,46 @@ Montage vidéo, postproduction et effets visuels
 
 ---
 
-
-
-<hr>
+<!-- ======================================= -->
+<!-- NEURALSTACKJA / FOOTER                 -->
+<!-- ======================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=%E2%9C%A6%20CODE%20%C3%97%20INTELLIGENCE%20%C3%97%20CR%C3%89ATIVIT%C3%89%20%E2%9C%A6&fontSize=24&fontColor=C49A45&fontAlignY=55&animation=none" width="100%" alt="✦ CODE × INTELLIGENCE × CRÉATIVITÉ ✦">
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=%E2%9C%A6%20CODE%20%C3%97%20INTELLIGENCE%20%C3%97%20CR%C3%89ATIVIT%C3%89%20%E2%9C%A6&fontSize=23&fontColor=C49A45&fontAlignY=50&animation=none"
+  width="100%"
+  alt="✦ CODE × INTELLIGENCE × CRÉATIVITÉ ✦">
 
 <strong>Créer sans limites. Explorer de nouvelles possibilités.</strong>
 
 <br>
 
-<sub><i>Create without limits. Explore new possibilities.</i></sub>
+<i>Create without limits. Explore new possibilities.</i>
 
 <br><br>
 
 <a href="https://neuralstackja.github.io/NeuralStackJA/">
-<img src="https://img.shields.io/badge/EXPLORER_NEURALSTACKJA-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white" alt="EXPLORER NEURALSTACKJA">
+<img
+  src="https://img.shields.io/badge/EXPLORER_NEURALSTACKJA-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white"
+  alt="EXPLORER NEURALSTACKJA">
 </a>
 
+<br><br>
+
+<code>IMAGINER</code> /
+<code>CRÉER</code> /
+<code>INNOVER</code>
+
 <br>
 
-<sub><code>IMAGINER</code> / <code>CRÉER</code> / <code>INNOVER</code></sub>
+<i>IMAGINE / CREATE / INNOVATE</i>
 
 <br>
 
-<sub><i>IMAGINE / CREATE / INNOVATE</i></sub>
+<img
+  src="assets/neuralstackja-footer.svg"
+  width="100%"
+  alt="NSJ — NEURALSTACKJA">
 
 </div>
