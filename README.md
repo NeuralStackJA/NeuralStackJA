@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # NEURALSTACKJA
@@ -8,11 +9,11 @@
 
 <sub><i>Beyond the code. Beyond the ordinary.</i></sub>
 
-<br><br>
+<br>
 
-![Full Stack](https://img.shields.io/badge/FULL_STACK-8B5CF6?style=for-the-badge&logoColor=white)
-![Neural AI](https://img.shields.io/badge/NEURAL_AI-FF6584?style=for-the-badge&logoColor=white)
-![Creative Tech](https://img.shields.io/badge/CREATIVE_TECH-12B8A6?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/FULL_STACK-8B5CF6?style=for-the-badge" alt="Full Stack">
+<img src="https://img.shields.io/badge/NEURAL_AI-FF6584?style=for-the-badge" alt="Neural AI">
+<img src="https://img.shields.io/badge/CREATIVE_TECH-12B8A6?style=for-the-badge" alt="Creative Tech">
 
 <br><br>
 
@@ -24,9 +25,11 @@
 
 <sub><i>A space for exploration where technology, intelligence and creativity converge.</i></sub>
 
-<br>
+<br><br>
 
-[![DÉCOUVRIR L'UNIVERS](https://img.shields.io/badge/✦_DÉCOUVRIR_L'UNIVERS-FF6584?style=for-the-badge&logo=githubpages&logoColor=white)](https://neuralstackja.github.io/NeuralStackJA/)
+<a href="https://neuralstackja.github.io/NeuralStackJA/">
+  <img src="https://img.shields.io/badge/DECOUVRIR_L_UNIVERS-FF6584?style=for-the-badge" alt="Découvrir l'univers">
+</a>
 
 </div>
 
