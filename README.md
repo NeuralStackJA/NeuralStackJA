@@ -39,60 +39,140 @@
 
 ---
 
+<h2>01 / IDENTITÉ NUMÉRIQUE</h2>
+
+<p><i>DIGITAL IDENTITY</i></p>
+
+<h3>◈ Développeur indépendant & créateur numérique</h3>
+
+<p><i>Independent Developer & Digital Creator</i></p>
+
+<p>
+Une approche multidisciplinaire où le développement logiciel,
+l'intelligence artificielle et la création visuelle se rejoignent
+pour concevoir des expériences numériques innovantes.
+</p>
+
+<p>
+<i>
+A multidisciplinary approach combining software development,
+artificial intelligence and visual creativity to build
+innovative digital experiences.
+</i>
+</p>
+
+<br>
+
 <h3>◇ DOMAINES D'EXPERTISE</h3>
 
 <table width="100%">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+
 <tr>
 <td width="50%" valign="top">
-<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="75" height="4" alt="">
+
+<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="75" height="4" alt="Violet">
+
 <br>
+
 <b>01 / SOFTWARE ENGINEERING</b>
+
 <br>
+
 <sub>Applications, architectures et interfaces</sub>
+
+<br><br>
+
 </td>
 <td width="50%" valign="top">
-<img src="https://img.shields.io/badge/-FF6584?style=flat-square" width="75" height="4" alt="">
+
+<img src="https://img.shields.io/badge/-FF6584?style=flat-square" width="75" height="4" alt="Rose">
+
 <br>
+
 <b>02 / NEURAL AI</b>
+
 <br>
+
 <sub>IA, réseaux neuronaux et automatisation</sub>
+
+<br><br>
+
 </td>
 </tr>
 
 <tr>
-<td valign="top">
-<img src="https://img.shields.io/badge/-12B8A6?style=flat-square" width="75" height="4" alt="">
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/-12B8A6?style=flat-square" width="75" height="4" alt="Turquoise">
+
 <br>
+
 <b>03 / DATA ENGINEERING</b>
+
 <br>
+
 <sub>Données, API et visualisation</sub>
+
+<br><br>
+
 </td>
-<td valign="top">
-<img src="https://img.shields.io/badge/-FF9F43?style=flat-square" width="75" height="4" alt="">
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/-FF9F43?style=flat-square" width="75" height="4" alt="Orange">
+
 <br>
+
 <b>04 / CREATIVE COMPUTING</b>
+
 <br>
+
 <sub>Programmation et expériences interactives</sub>
+
+<br><br>
+
 </td>
 </tr>
 
 <tr>
-<td valign="top">
-<img src="https://img.shields.io/badge/-D946A6?style=flat-square" width="75" height="4" alt="">
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/-D946A6?style=flat-square" width="75" height="4" alt="Magenta">
+
 <br>
+
 <b>05 / MOTION DESIGN</b>
+
 <br>
+
 <sub>Animation, vidéo et effets visuels</sub>
+
+<br><br>
+
 </td>
-<td valign="top">
-<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="75" height="4" alt="">
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="75" height="4" alt="Violet">
+
 <br>
+
 <b>06 / DIGITAL MEDIA</b>
+
 <br>
+
 <sub>Design graphique et multimédia</sub>
+
+<br><br>
+
 </td>
 </tr>
+
 </table>
+
+<br>
 
 <p align="center">
 <strong>Imaginer. Concevoir. Expérimenter. Évoluer.</strong>
@@ -100,6 +180,9 @@
 <i>Imagine. Design. Experiment. Evolve.</i>
 </p>
 
+<hr>
+
+---
 
 ## 02 / LANGAGES DE PROGRAMMATION
 
