@@ -40,22 +40,18 @@
 ---
 
 
-<table>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="https://placehold.co/390x1/FFFFFF/FFFFFF.png" width="390" height="1" alt="">
-<br>
-<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="75" height="4" alt="">
+<img src="https://placehold.co/390x5/8B5CF6/8B5CF6.png" width="100%" height="5" alt="">
 <br>
 <b>01 / SOFTWARE ENGINEERING</b>
 <br>
 <sub>Applications, architectures et interfaces</sub>
 </td>
-
 <td width="50%" valign="top">
-<img src="https://placehold.co/390x1/FFFFFF/FFFFFF.png" width="390" height="1" alt="">
-<br>
-<img src="https://img.shields.io/badge/-FF6584?style=flat-square" width="75" height="4" alt="">
+<img src="https://placehold.co/390x5/FF6584/FF6584.png" width="100%" height="5" alt="">
 <br>
 <b>02 / NEURAL AI</b>
 <br>
@@ -65,15 +61,14 @@
 
 <tr>
 <td valign="top">
-<img src="https://img.shields.io/badge/-12B8A6?style=flat-square" width="75" height="4" alt="">
+<img src="https://placehold.co/390x5/12B8A6/12B8A6.png" width="100%" height="5" alt="">
 <br>
 <b>03 / DATA ENGINEERING</b>
 <br>
 <sub>Données, API et visualisation</sub>
 </td>
-
 <td valign="top">
-<img src="https://img.shields.io/badge/-FF9F43?style=flat-square" width="75" height="4" alt="">
+<img src="https://placehold.co/390x5/FF9F43/FF9F43.png" width="100%" height="5" alt="">
 <br>
 <b>04 / CREATIVE COMPUTING</b>
 <br>
@@ -83,15 +78,14 @@
 
 <tr>
 <td valign="top">
-<img src="https://img.shields.io/badge/-D946A6?style=flat-square" width="75" height="4" alt="">
+<img src="https://placehold.co/390x5/D946A6/D946A6.png" width="100%" height="5" alt="">
 <br>
 <b>05 / MOTION DESIGN</b>
 <br>
 <sub>Animation, vidéo et effets visuels</sub>
 </td>
-
 <td valign="top">
-<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="75" height="4" alt="">
+<img src="https://placehold.co/390x5/8B5CF6/8B5CF6.png" width="100%" height="5" alt="">
 <br>
 <b>06 / DIGITAL MEDIA</b>
 <br>
