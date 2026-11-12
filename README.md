@@ -38,8 +38,6 @@
 </div>
 
 ---
-
-
 <h2>01 / IDENTITÉ NUMÉRIQUE</h2>
 
 <p><i>DIGITAL IDENTITY</i></p>
@@ -175,18 +173,78 @@ Design graphique et multimédia
 
 ---
 
-## 03 / INGÉNIERIE & CRÉATIVITÉ
 
-*ENGINEERING & CREATIVITY*
+<h2>03 / INGÉNIERIE & CRÉATIVITÉ</h2>
 
-| UNIVERS | EXPERTISE |
-|:---|:---|
-| ✳ **Software Engineering** | Développement d'applications et architectures logicielles |
-| ◈ **Neural AI** | Intelligence artificielle et systèmes intelligents |
-| ◇ **Data Engineering** | Données, automatisation et visualisations |
-| ✦ **Creative Coding** | Programmation graphique et expériences interactives |
-| ◎ **JavaScript Animation** | SVG, Canvas, WebGL, Three.js et animations web |
-| ▣ **Digital Media** | Montage vidéo, postproduction et effets visuels |
+<p><i>ENGINEERING & CREATIVITY</i></p>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img src="https://placehold.co/600x8/8B5CF6/8B5CF6.png" width="100%" height="6" alt="">
+<br>
+<b>01 / SOFTWARE ENGINEERING</b>
+<br>
+Développement d'applications et architectures logicielles
+<br><br>
+</td>
+
+<td width="50%" valign="top">
+<img src="https://placehold.co/600x8/FF6584/FF6584.png" width="100%" height="6" alt="">
+<br>
+<b>02 / NEURAL AI</b>
+<br>
+Intelligence artificielle et systèmes intelligents
+<br><br>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<img src="https://placehold.co/600x8/12B8A6/12B8A6.png" width="100%" height="6" alt="">
+<br>
+<b>03 / DATA ENGINEERING</b>
+<br>
+Données, automatisation et visualisations
+<br><br>
+</td>
+
+<td valign="top">
+<img src="https://placehold.co/600x8/FF9F43/FF9F43.png" width="100%" height="6" alt="">
+<br>
+<b>04 / CREATIVE CODING</b>
+<br>
+Programmation graphique et expériences interactives
+<br><br>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<img src="https://placehold.co/600x8/D946A6/D946A6.png" width="100%" height="6" alt="">
+<br>
+<b>05 / JAVASCRIPT ANIMATION</b>
+<br>
+SVG, Canvas, WebGL, Three.js et animations web
+<br><br>
+</td>
+
+<td valign="top">
+<img src="https://placehold.co/600x8/8B5CF6/8B5CF6.png" width="100%" height="6" alt="">
+<br>
+<b>06 / DIGITAL MEDIA</b>
+<br>
+Montage vidéo, postproduction et effets visuels
+<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
+<hr>
 
 ---
 
