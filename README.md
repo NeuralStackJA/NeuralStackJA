@@ -39,58 +39,105 @@
 
 ---
 
+
+<h2>01 / IDENTITÉ NUMÉRIQUE</h2>
+
+<p><i>DIGITAL IDENTITY</i></p>
+
+<h3>◈ Développeur indépendant & créateur numérique</h3>
+
+<p><i>Independent Developer & Digital Creator</i></p>
+
+<p>
+Une approche multidisciplinaire où le développement logiciel,
+l'intelligence artificielle et la création visuelle se rejoignent
+pour concevoir des expériences numériques innovantes.
+</p>
+
+<p><i>
+A multidisciplinary approach combining software development,
+artificial intelligence and visual creativity to build
+innovative digital experiences.
+</i></p>
+
+<br>
+
+<h3>◇ DOMAINES D'EXPERTISE</h3>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="https://placehold.co/390x5/8B5CF6/8B5CF6.png" width="100%" height="5" alt="">
+<img src="https://placehold.co/600x8/8B5CF6/8B5CF6.png"
+     width="100%" height="6" alt="">
 <br>
 <b>01 / SOFTWARE ENGINEERING</b>
 <br>
-<sub>Applications, architectures et interfaces</sub>
+Applications, architectures et interfaces
+<br><br>
 </td>
 <td width="50%" valign="top">
-<img src="https://placehold.co/390x5/FF6584/FF6584.png" width="100%" height="5" alt="">
+<img src="https://placehold.co/600x8/FF6584/FF6584.png"
+     width="100%" height="6" alt="">
 <br>
 <b>02 / NEURAL AI</b>
 <br>
-<sub>IA, réseaux neuronaux et automatisation</sub>
+IA, réseaux neuronaux et automatisation
+<br><br>
 </td>
 </tr>
 
 <tr>
 <td valign="top">
-<img src="https://placehold.co/390x5/12B8A6/12B8A6.png" width="100%" height="5" alt="">
+<img src="https://placehold.co/600x8/12B8A6/12B8A6.png"
+     width="100%" height="6" alt="">
 <br>
 <b>03 / DATA ENGINEERING</b>
 <br>
-<sub>Données, API et visualisation</sub>
+Données, API et visualisation
+<br><br>
 </td>
 <td valign="top">
-<img src="https://placehold.co/390x5/FF9F43/FF9F43.png" width="100%" height="5" alt="">
+<img src="https://placehold.co/600x8/FF9F43/FF9F43.png"
+     width="100%" height="6" alt="">
 <br>
 <b>04 / CREATIVE COMPUTING</b>
 <br>
-<sub>Programmation et expériences interactives</sub>
+Programmation et expériences interactives
+<br><br>
 </td>
 </tr>
 
 <tr>
 <td valign="top">
-<img src="https://placehold.co/390x5/D946A6/D946A6.png" width="100%" height="5" alt="">
+<img src="https://placehold.co/600x8/D946A6/D946A6.png"
+     width="100%" height="6" alt="">
 <br>
 <b>05 / MOTION DESIGN</b>
 <br>
-<sub>Animation, vidéo et effets visuels</sub>
+Animation, vidéo et effets visuels
+<br><br>
 </td>
 <td valign="top">
-<img src="https://placehold.co/390x5/8B5CF6/8B5CF6.png" width="100%" height="5" alt="">
+<img src="https://placehold.co/600x8/8B5CF6/8B5CF6.png"
+     width="100%" height="6" alt="">
 <br>
 <b>06 / DIGITAL MEDIA</b>
 <br>
-<sub>Design graphique et multimédia</sub>
+Design graphique et multimédia
+<br><br>
 </td>
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+<strong>Imaginer. Concevoir. Expérimenter. Évoluer.</strong>
+<br>
+<i>Imagine. Design. Experiment. Evolve.</i>
+</p>
+
+<hr>
 
 
 ## 02 / LANGAGES DE PROGRAMMATION
