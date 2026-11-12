@@ -1,13 +1,14 @@
 
+
 <div align="center">
 
-# ✳ NEURALSTACKJA
+# NEURALSTACKJA
 
 ### `FULL STACK` × `NEURAL AI` × `CREATIVE ENGINEERING`
 
 ### Au-delà du code. Au-delà de l'ordinaire.
 
-<sub><i><font color="#8B8796">Beyond the code. Beyond the ordinary.</font></i></sub>
+<sub><i>Beyond the code. Beyond the ordinary.</i></sub>
 
 <br><br>
 
@@ -30,6 +31,8 @@
 [![DÉCOUVRIR L'UNIVERS](https://img.shields.io/badge/✦_DÉCOUVRIR_L'UNIVERS-FF6584?style=for-the-badge&logo=githubpages&logoColor=white)](https://neuralstackja.github.io/NeuralStackJA/)
 
 </div>
+
+---
 
 ---
 
