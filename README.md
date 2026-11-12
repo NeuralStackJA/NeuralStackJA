@@ -1,75 +1,97 @@
+
 <div align="center">
 
-# ◈ NEURALSTACKJA
+# ✳ NEURALSTACKJA
 
 ### `FULL STACK` × `NEURAL AI` × `CREATIVE ENGINEERING`
 
-**Beyond the code. Beyond the ordinary.**
+### Au-delà du code. Au-delà de l'ordinaire.
+
+<sub><i><font color="#8B8796">Beyond the code. Beyond the ordinary.</font></i></sub>
+
+<br><br>
+
+![Full Stack](https://img.shields.io/badge/FULL_STACK-8B5CF6?style=for-the-badge&logoColor=white)
+![Neural AI](https://img.shields.io/badge/NEURAL_AI-FF6584?style=for-the-badge&logoColor=white)
+![Creative Tech](https://img.shields.io/badge/CREATIVE_TECH-12B8A6?style=for-the-badge&logoColor=white)
+
+<br><br>
+
+## ◇ UNIVERS NUMÉRIQUE
+
+*DIGITAL UNIVERSE*
+
+**Un espace d'exploration où se rencontrent technologie, intelligence et créativité.**
+
+<sub><i>A space for exploration where technology, intelligence and creativity converge.</i></sub>
 
 <br>
 
-![Full Stack](https://img.shields.io/badge/FULL_STACK-102B46?style=for-the-badge)
-![Neural AI](https://img.shields.io/badge/NEURAL_AI-00B8D9?style=for-the-badge)
-![Creative Tech](https://img.shields.io/badge/CREATIVE_TECH-168C94?style=for-the-badge)
-
-<br>
-
-### ◇ DIGITAL GARDEN
-
-*Where software engineering, artificial intelligence and digital creativity converge.*
-
-[![EXPLORE](https://img.shields.io/badge/EXPLORE_THE_GARDEN-087E91?style=for-the-badge&logo=githubpages&logoColor=white)](https://neuralstackja.github.io/NeuralStackJA/)
+[![DÉCOUVRIR L'UNIVERS](https://img.shields.io/badge/✦_DÉCOUVRIR_L'UNIVERS-FF6584?style=for-the-badge&logo=githubpages&logoColor=white)](https://neuralstackja.github.io/NeuralStackJA/)
 
 </div>
 
 ---
 
-## 01 / IDENTITY
+## 01 / IDENTITÉ NUMÉRIQUE
 
-```python
-class NeuralStackJA:
-    identity = "Independent Developer"
+*DIGITAL IDENTITY*
 
-    expertise = [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Software Engineering",
-        "Creative Computing",
-        "Motion Design",
-        "Digital Media"
-    ]
+### ◈ Développeur indépendant & créateur numérique
 
-    philosophy = "Build. Explore. Evolve."
-```
+*Independent Developer & Digital Creator*
+
+Une approche multidisciplinaire associant ingénierie logicielle, intelligence artificielle, développement web et création visuelle.
+
+*A multidisciplinary approach combining software engineering, artificial intelligence, web development and visual creativity.*
+
+<br>
+
+| | DOMAINE | SPÉCIALISATION |
+|:---:|:---|:---|
+| 🟣 | **Développement Full Stack** | Applications, interfaces et architecture logicielle |
+| 🩷 | **Intelligence artificielle** | Systèmes intelligents, réseaux neuronaux et automatisation |
+| 🟢 | **Ingénierie des données** | Traitement, API, bases de données et visualisation |
+| 🟠 | **Creative Computing** | Expériences interactives et programmation créative |
+| 🟡 | **Motion Design** | Animation, vidéo et effets visuels |
+| 🟣 | **Digital Media** | Design graphique et production multimédia |
+
+<br>
+
+> **Imaginer. Concevoir. Expérimenter. Évoluer.**
+>
+> *Imagine. Design. Experiment. Evolve.*
 
 ---
 
-## 02 / PROGRAMMING LANGUAGES
+## 02 / LANGAGES DE PROGRAMMATION
+
+*PROGRAMMING LANGUAGES*
 
 <div align="center">
 
-### CORE LANGUAGES
+### ◈ LANGAGES PRINCIPAUX
 
-![Ruby](https://img.shields.io/badge/RUBY-102B46?style=for-the-badge&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-102B46?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/SWIFT-102B46?style=for-the-badge&logo=swift&logoColor=white)
+![Ruby](https://img.shields.io/badge/RUBY-FF6584?style=for-the-badge&logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/SWIFT-FF9F43?style=for-the-badge&logo=swift&logoColor=white)
 
-![C Sharp](https://img.shields.io/badge/C%23-087E91?style=for-the-badge&logo=sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-087E91?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-087E91?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-A855F7?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/C-12B8A6?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-FF6584?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-![Python](https://img.shields.io/badge/PYTHON-168C94?style=for-the-badge&logo=python&logoColor=white)
-![Julia](https://img.shields.io/badge/JULIA-168C94?style=for-the-badge&logo=julia&logoColor=white)
-![Scala](https://img.shields.io/badge/SCALA-168C94?style=for-the-badge&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/JULIA-12B8A6?style=for-the-badge&logo=julia&logoColor=white)
+![Scala](https://img.shields.io/badge/SCALA-FF9F43?style=for-the-badge&logo=scala&logoColor=white)
 
-### ADDITIONAL LANGUAGES & TECHNOLOGIES
+### ◇ AUTRES LANGAGES & TECHNOLOGIES
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-102B46?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-102B46?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-102B46?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-102B46?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-087E91?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-087E91?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF6584?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-8B5CF6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-12B8A6?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF9F43?style=flat-square&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6584?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=flat-square&logo=css&logoColor=white)
 
 `LINGO` · `CLASS`
 
@@ -77,56 +99,63 @@ class NeuralStackJA:
 
 ---
 
-## 03 / DIGITAL ENGINEERING
+## 03 / INGÉNIERIE & CRÉATIVITÉ
 
-| DOMAIN | EXPERTISE |
+*ENGINEERING & CREATIVITY*
+
+| UNIVERS | EXPERTISE |
 |:---|:---|
-| ◈ **Full Stack** | Web applications and software architecture |
-| ◉ **Neural AI** | Intelligent systems and automation |
-| ◇ **Data Engineering** | Processing, databases and analytics |
-| ◎ **Creative Coding** | Interactive experiences and generative design |
-| ✦ **JavaScript Animation** | Motion graphics, Canvas, SVG and WebGL |
-| ▣ **Digital Media** | Video editing, compositing and post-production |
+| ✳ **Software Engineering** | Développement d'applications et architectures logicielles |
+| ◈ **Neural AI** | Intelligence artificielle et systèmes intelligents |
+| ◇ **Data Engineering** | Données, automatisation et visualisations |
+| ✦ **Creative Coding** | Programmation graphique et expériences interactives |
+| ◎ **JavaScript Animation** | SVG, Canvas, WebGL, Three.js et animations web |
+| ▣ **Digital Media** | Montage vidéo, postproduction et effets visuels |
 
 ---
 
-## 04 / CREATIVE & ADOBE EXPERIENCE
+## 04 / DESIGN & CRÉATION NUMÉRIQUE
+
+*DESIGN & DIGITAL CREATION*
 
 <div align="center">
 
-### ADOBE CREATIVE SUITE
+### ✦ ADOBE CREATIVE SUITE
 
-![Photoshop](https://img.shields.io/badge/PHOTOSHOP-102B46?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-102B46?style=for-the-badge)
-![Premiere Pro](https://img.shields.io/badge/PREMIERE_PRO-087E91?style=for-the-badge)
-![After Effects](https://img.shields.io/badge/AFTER_EFFECTS-087E91?style=for-the-badge)
-![InDesign](https://img.shields.io/badge/INDESIGN-168C94?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-8B5CF6?style=for-the-badge&logoColor=white)
+![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-FF9F43?style=for-the-badge&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/PREMIERE_PRO-FF6584?style=for-the-badge&logoColor=white)
+
+![After Effects](https://img.shields.io/badge/AFTER_EFFECTS-A855F7?style=for-the-badge&logoColor=white)
+![InDesign](https://img.shields.io/badge/INDESIGN-12B8A6?style=for-the-badge&logoColor=white)
 
 </div>
 
-**Creative expertise**
+**Compétences créatives**
 
-- Adobe Creative Suite — advanced proficiency
-- Former Adobe certifications
-- Video editing and post-production
-- Motion design and visual effects
-- Digital graphics and multimedia production
-- Interactive animation with JavaScript
-- SVG, Canvas, CSS animations and WebGL
+- Maîtrise d'Adobe Creative Suite
+- Anciennes certifications Adobe
+- Création graphique et composition visuelle
+- Montage vidéo et postproduction
+- Motion design et effets visuels
+- Animations interactives en JavaScript
+- Interfaces et expériences numériques
 
 ---
 
-## 05 / CREATIVE TECHNOLOGIES
+## 05 / TECHNOLOGIES CRÉATIVES
+
+*CREATIVE TECHNOLOGIES*
 
 <div align="center">
 
-`JAVASCRIPT` · `CANVAS API` · `SVG`
+![Canvas](https://img.shields.io/badge/CANVAS_API-8B5CF6?style=for-the-badge)
+![SVG](https://img.shields.io/badge/SVG-FF6584?style=for-the-badge)
+![WebGL](https://img.shields.io/badge/WEBGL-12B8A6?style=for-the-badge)
 
-`WEBGL` · `THREE.JS` · `GSAP`
-
-`MOTION DESIGN` · `VIDEO EDITING`
-
-`UI / UX` · `CREATIVE CODING`
+![Three.js](https://img.shields.io/badge/THREE.JS-FF9F43?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-A855F7?style=for-the-badge)
+![Motion Design](https://img.shields.io/badge/MOTION_DESIGN-FF6584?style=for-the-badge)
 
 </div>
 
@@ -134,12 +163,20 @@ class NeuralStackJA:
 
 <div align="center">
 
-### ◈ CODE / INTELLIGENCE / CREATION
+### ✳ CODE × INTELLIGENCE × CRÉATIVITÉ
 
-*Building quietly. Exploring endlessly.*
+**Créer sans limites. Explorer de nouvelles possibilités.**
 
-**[ENTER THE DIGITAL GARDEN](https://neuralstackja.github.io/NeuralStackJA/)**
+<sub><i>Create without limits. Explore new possibilities.</i></sub>
 
-`BUILD / EXPLORE / EVOLVE`
+<br><br>
+
+[![EXPLORER NEURALSTACKJA](https://img.shields.io/badge/✦_EXPLORER_NEURALSTACKJA-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://neuralstackja.github.io/NeuralStackJA/)
+
+<br>
+
+`IMAGINER` / `CRÉER` / `INNOVER`
+
+<sub><i>IMAGINE / CREATE / INNOVATE</i></sub>
 
 </div>
